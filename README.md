@@ -1,4 +1,4 @@
-gittest
+gittest/gh-pages branch
 ========
 
 This repo is for my course at [*RubyLearning.org*](http://rubylearning.org/classes)
