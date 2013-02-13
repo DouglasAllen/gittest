@@ -1,6 +1,8 @@
-gittest
+gittest/student branch
 ========
 
-This repo is for my course at RubyLearning.org
+This repo is for my course at [*RubyLearning.org*](http://rubylearning.org/classes/)
 
-*[gittest gh-pages]*(http://douglasallen.github.com/gittest/)
+Git-GitHub 7th batch
+
+
