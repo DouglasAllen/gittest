@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 gittest/master branch
+=======
+gittest/display branch
+>>>>>>> display
 ========
 
 This repo is for my course at [*RubyLearning.org*](http://rubylearning.org/classes)
