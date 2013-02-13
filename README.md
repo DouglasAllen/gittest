@@ -1,4 +1,4 @@
-gittest/master branch
+gittest/display branch
 ========
 
 This repo is for my course at [*RubyLearning.org*](http://rubylearning.org/classes)
